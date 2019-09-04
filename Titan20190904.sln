@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2046
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Titan20190904", "Titan20190904\Titan20190904.csproj", "{6E9406DD-EA9D-4883-A86E-4C2ABC3E86DF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyLib", "MyLib\MyLib.csproj", "{598BEC62-C7D9-4D76-B078-C53808B403E5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{6E9406DD-EA9D-4883-A86E-4C2ABC3E86DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6E9406DD-EA9D-4883-A86E-4C2ABC3E86DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6E9406DD-EA9D-4883-A86E-4C2ABC3E86DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{598BEC62-C7D9-4D76-B078-C53808B403E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{598BEC62-C7D9-4D76-B078-C53808B403E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{598BEC62-C7D9-4D76-B078-C53808B403E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{598BEC62-C7D9-4D76-B078-C53808B403E5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
